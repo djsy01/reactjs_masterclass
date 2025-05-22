@@ -1,4 +1,4 @@
-# ReactJS_마스터클래스 Assignment5 프로젝트
+# ReactJS_마스터클래스 프로젝트
 
 ## 개요
 ReactJS 마스터클래스 과제로, Framer-motion을 활용해 4개의 네모 박스와 그 안을 이동하는 원의 애니메이션을 구현한 프로젝트입니다.
