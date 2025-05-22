@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://djsy01.github.io/reactjs_masterclass_Assignment5",
+  "homepage": "https://djsy01.github.io/reactjs_masterclass",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "@hello-pangea/dnd": "^18.0.1",
