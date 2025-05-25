@@ -10,11 +10,11 @@ ReactJS 마스터클래스 과제로, Framer-motion을 활용해 4개의 네모 
 - Framer-motion (애니메이션)
 
 ## 주요 기능
-- 창문 모양으로 배치된 4개의 네모 박스
-- 4개의 원 중 하나가 랜덤으로 박스 안에 위치하며 이동 가능
-- 박스에 마우스 커서가 올라가면 주변 박스 방향을 고려해 빈 공간 쪽으로만 커짐
-- 박스 클릭 시 확대 애니메이션 발생, 원도 중앙에 정확히 위치
-- 버튼 클릭 시 원이 다른 박스로 랜덤 이동
+- /(home) 페이지에 Latest movies, Top Rated Movies 그리고 Upcoming Movies의 슬라이더를 추가해주세요.
+- /tv 페이지에 Latest Shows, Airing Today, Popular, Top Rated의 슬라이더를 추가해주세요.
+- /search 페이지에 검색한 movie와 tv의 결과가 담긴 슬라이더를 추가해주세요.
+- /movie/:id 페이지를 더욱 예쁘게 꾸며보세요.
+- /tv/:id 페이지를 추가해주세요.
 
 ## 기술 포인트
 - **Framer-motion**의 **`layoutId`**와 **`AnimatePresence`**를 활용한 자연스러운 모션 구현
